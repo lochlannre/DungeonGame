@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\Programming\\UnrealEngine\\GIT\\DungeonGenerator\\Dungeon_2\\Source\\Dungeon_2\\Dungeon_2.Build.cs",
+		"F:\\Programming\\UnrealEngine\\GIT\\DungeonGenerator\\Dungeon_2\\Source\\Dungeon_2.Target.cs",
+		"F:\\Programming\\UnrealEngine\\GIT\\DungeonGenerator\\Dungeon_2\\Source\\Dungeon_2Editor.Target.cs"
+	],
+	"EngineVersion": "4.26.0"
+}
