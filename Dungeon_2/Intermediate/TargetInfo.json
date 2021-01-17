@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Dungeon_2",
+			"Path": "F:\\Programming\\UnrealEngine\\GIT\\DungeonGenerator\\Dungeon_2\\Source\\Dungeon_2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Dungeon_2Editor",
+			"Path": "F:\\Programming\\UnrealEngine\\GIT\\DungeonGenerator\\Dungeon_2\\Source\\Dungeon_2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

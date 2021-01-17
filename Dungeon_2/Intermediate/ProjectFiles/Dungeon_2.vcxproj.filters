@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Dungeon_2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{14ED031F-EFE5-4B7D-B7BE-D0FE72D280B2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Dungeon_2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Dungeon_2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{780C505C-C67B-4603-9F3C-01911D7F6EDD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Dungeon_2">
+      <UniqueIdentifier>{D08DE089-E936-4355-9049-094959B12C5D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Dungeon_2\Dungeon_2.Build.cs">
+      <Filter>Source\Dungeon_2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Dungeon_2\Dungeon_2.cpp">
+      <Filter>Source\Dungeon_2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Dungeon_2\Dungeon_2.h">
+      <Filter>Source\Dungeon_2</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\Dungeon_2\Enemy">
+      <UniqueIdentifier>{ea69d9e3-1afb-4862-9c25-5ffd5dc531d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Dungeon_2\Generator">
+      <UniqueIdentifier>{7fe98c51-02e4-43c6-a677-0abaa13e1ecc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Dungeon_2\Generator\Rooms">
+      <UniqueIdentifier>{9c5ab76f-0bce-4d91-97d3-c9ad3f92adfd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Dungeon_2\Player">
+      <UniqueIdentifier>{3c8eb33f-fbed-4232-998b-1dd701a9dcff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Dungeon_2\Misc">
+      <UniqueIdentifier>{3fa38a04-abe7-4481-9e7e-e7b68d776027}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Dungeon_2\RoomInfo.h">
+      <Filter>Source\Dungeon_2\Generator\Rooms</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Dungeon_2\RoomGenerator.h">
+      <Filter>Source\Dungeon_2\Generator\Rooms</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Dungeon_2\Dungeon_Generator.h">
+      <Filter>Source\Dungeon_2\Generator</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Dungeon_2\Enemy_Base.h">
+      <Filter>Source\Dungeon_2\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Dungeon_2\DungeonCharacter.h">
+      <Filter>Source\Dungeon_2\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Dungeon_2\Dungeon_2GameModeBase.h">
+      <Filter>Source\Dungeon_2\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Dungeon_2\DungeonGameMode.h">
+      <Filter>Source\Dungeon_2\Misc</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Dungeon_2\RoomInfo.cpp">
+      <Filter>Source\Dungeon_2\Generator\Rooms</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Dungeon_2\RoomGenerator.cpp">
+      <Filter>Source\Dungeon_2\Generator\Rooms</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Dungeon_2\Dungeon_Generator.cpp">
+      <Filter>Source\Dungeon_2\Generator</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Dungeon_2\Enemy_Base.cpp">
+      <Filter>Source\Dungeon_2\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Dungeon_2\DungeonCharacter.cpp">
+      <Filter>Source\Dungeon_2\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Dungeon_2\Dungeon_2GameModeBase.cpp">
+      <Filter>Source\Dungeon_2\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Dungeon_2\DungeonGameMode.cpp">
+      <Filter>Source\Dungeon_2\Misc</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
